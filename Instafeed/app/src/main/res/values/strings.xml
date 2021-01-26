@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Instafeed</string>
+    <string name="instafeed_icon">Instafeed Icon</string>
+    <string name="picture_of_brand">Picture of brand</string>
+    <string name="store_image">Store Image</string>
+    <string name="title_activity_review">ReviewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="location_picture">Location Picture</string>
+    <string name="write_a_review">Write a Review!</string>
+    <string name="like_or_dislike">Like or Dislike</string>
+</resources>
